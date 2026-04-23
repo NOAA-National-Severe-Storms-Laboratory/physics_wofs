@@ -1,0 +1,12 @@
+[submodule "NSSL-MP"]
+	path = NSSL-MP
+	url = https://github.com/NOAA-National-Severe-Storms-Laboratory/NSSL-MP
+[submodule "RUCLSM"]
+	path = RUCLSM
+	url = https://github.com/NOAA-GSL/RUCLSM
+[submodule "MYNN-EDMF"]
+	path = MYNN-EDMF
+	url = https://github.com/NCAR/MYNN-EDMF
+[submodule "MYNN-SFC"]
+	path = MYNN-SFC
+	url = https://github.com/NCAR/MYNN-SFC
