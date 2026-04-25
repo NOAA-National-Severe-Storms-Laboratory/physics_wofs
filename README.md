@@ -6,5 +6,6 @@ External (to the NCAR canonical model) physics packages for MPAS-WoFS.
 - [GSL RUC Land-Surface Model](https://github.com/NOAA-GSL/RUCLSM) 
 - [MYNN-EDMF Planetary Boundary Layer](https://github.com/NCAR/MYNN-EDMF)
 - [MYNN-SFC Surface Layer](https://github.com/NCAR/MYNN-SFC)
+- Shin-Hong Planetary Boundary Layer
 
 
